@@ -1,2 +1,1 @@
-# machine-learning
-Machine Learning algorithms
+# DataProjects
